@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hehe I'm In Ur Title Bar</title>
+    <style>
+        
+        body {
+            font-family:sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            overflow: scroll;
+        }
+
+        #title-bar {
+            position: fixed;
+            top: 0;
+            font-family: Pixel;
+            left: 0;
+            background-color: #000000;
+            color: #ffffff;
+            width: 100%;
+            padding: 20px 0;
+           
+            align-items : center;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            z-index: 1000; 
+        }
+        #comments {
+            position: fixed;
+            margin-top: 25%;
+            font-family: Helvetica;
+            margin-left: 25%;
+
+            width: 50%;
+            height: 50%;
+            padding: 20px 0;
+            align-items : center;
+            z-index: 1010; 
+        }
+        #backround {
+            position: fixed;
+            background-color: #2c2c2c;
+            width: 100%;
+            height: 100%;
+            padding: 20px 0;
+            z-index: -10; 
+        }
+
+        #top-button {
+            
+            padding: 15px 20px;
+            font-size: 18px;
+            background-color: #ffffff;
+            color: #000000;
+            border: none;
+            cursor: pointer;
+            border-radius: 2.5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-top: 80px; 
+            
+        }
+
+        #topleft-button {
+            
+            padding: 15px 20px;
+            font-size: 18px;
+            background-color: #ffffff;
+            color: #000000;
+            border: none;
+            cursor: pointer;
+            border-radius: 2.5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-top: 80px; 
+            margin-left: 50px;
+        }
+        #playleft-button {
+            
+            padding: 15px 20px;
+            font-size: 18px;
+            background-color: #ffffff;
+            color: #000000;
+            border: none;
+            cursor: pointer;
+            border-radius: 2.5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-top: 10px; 
+            margin-left: 50px;
+        }
+        #play-button {
+            
+            padding: 15px 20px;
+            font-size: 18px;
+            background-color: #ffffff;
+            color: #000000;
+            border: none;
+            cursor: pointer;
+            border-radius: 2.5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-top: 10px; 
+        }        
+     
+    </style>
+</head>
+<body>
+
+<div id="title-bar">I Like Beanz</div>
+<div id="backround">I Like Beanz</div>
+<div id="comments">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvJnLd6NQFwYTAw1paK7uHeavHyKq9as7U0LVWdJOPYx0AAg/viewform?embedded=true" width="100%" height="90%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+<button id="topleft-button" onclick="location.href='Slope.html';">Slope</button>
+<button id="top-button" onclick="location.href='RS.html';">Rooftop Snipers</button>
+<button id="top-button" onclick="location.href='R3.html';">Run 3d</button>
+<button id="top-button" onclick="location.href='BB.html';">Baskettball Stars</button>
+<button id="top-button" onclick="location.href='BT1.html';">BTD 1</button>
+<button id="top-button" onclick="location.href='BT2.html';">BTD 2</button>
+<button id="top-button" onclick="location.href='BT3.html';">BTD 3</button>
+<button id="top-button" onclick="location.href='SH.html';">Stickman Hook</button>
+<button id="top-button" onclick="location.href='DG.html';">Dino Game</button>
+<button id="top-button" onclick="location.href='NC.html';">Ninja Clicker</button>
+<button id="playleft-button" onclick="location.href='PM.html';">Paper MInecraft</button>
+<button id="play-button" onclick="location.href='BP.html';">Retro Bowl</button>
+<button id="play-button" onclick="location.href='MRB.html';">Mr. Bullet</button>
+<button id="play-button" onclick="location.href='JJ.html';">Jetpack Joyride</button>
+<button id="play-button" onclick="location.href='PPR.html';">Papa's Freezeria</button>
+<button id="play-button" onclick="location.href='PPBE.html';">Papa's Burgeria</button>
+<button id="play-button" onclick="location.href='DK.html';">Drift Boss</button>
+<button id="play-button" onclick="location.href='https://canned-beans.github.io/your-custom-name.github.io/';">Cookie Clicker</button>
+<button id="playleft-button" onclick="location.href='MB.html';">More Bloons</button>
+<button id="play-button" onclick="location.href='https://dddavit.github.io/subway/';">Subway Surfers</button>
+
+
+
+
+
+
+
+
+</body>
+</html>
+<!-- 
+ 
+ Mi4wNTJ8fDE2OTY0NTk1NzM4NDA7MTY5NjQ1OTU3Mzg0MDsxNzA5NTI2MzYzNDQ5O0xldGhhbCBNb25zdGVyO29reWdyOzAsMSwwLDAsMCwwLDB8MTExMTExMDExMDExMDExMDAxMDEwMTEwMDAxfDIyOTY3OTk0MzU1NTk4NzUyMDs1NTM5OTIxMDY4NTE3OTY3MDA7Mjg0ODA3NTs2MzY7MzE1MDgxOTE2MDQ3NjE2NDUwOzEzNjk7MDswOzA7MTswOzA7MDstMTswOzYzNjs5MTg4NjMwMzc4NzQzMjQ0Ozc0OzE0OzA7LTE7MDs7NjUzNjUwNzM1MjQzODgzOzM7MDswOzA7MDswOy0xOy0xOy0xOy0xOy0xOzA7MDswOzA7NzU7MDswOzY4OzE1MTsxNzA5NDg2ODE0NDcyOzA7MDs7NDE7MDswOzU3MDMwNjk4NzE3OS43ODM3OzUwOzA7MDt8MjAwLDI1MTMsODc3ODQ3NTI4MTg1OTA2LDAsLDAsMjAxOzIwMCwyNTIxLDE3MDY5NTEzOTc4NjMxMzAsMCwsMSwyMDA7MjAwLDk1NCwxMTg3NTM1ODY4Njg5LDEyLDE3MDk1MjY1MzExMzg6MToxNjk3MjQ1MzU5NTkxOjA6MjI4OjIyODoxOjA6MTY5Njc4NTUyNzY2NTogMTExMDAwMDAxMTAxMTEwMDAwMDAxMDAxMDAwMDAwMDAwMCAyMTo2NDoyMTo3MToyMTo3MzoyMTo2ODoyMTo2ODoyMTo2ODoyMTo3MjoyMTo3MjoyMTo2NjoyMTo3MDoyMTo3MjoyMTo2OToyMTo3MjoyMTo3NToyMTo3MDoyMTo3MzoyMTo2ODoyMTo2ODoyMTo3NzoyMTo2NzoyMTo3MDoyMTo2NzoyMTo3MjoyMTo3NjoyMTo2NToyMTo3MjoyMTo3MjoyMTo3MzoyMTo3MjoyMTo2NzoyMTo2ODoyMTo2NjoyMTo3MToyMTo2NzoyMTo3MjoyMTo3MTosMCwyMDM7MTEwLDE1NTksMTUwODEzMjI5NjM1NiwwLCwxLDE5NzsxMDAsOTk2LDM2NDczNzM2MTM2NjMsMCwsMSwxMzE7MTMxLDgwMCwxODMxNzY1Njc4NDYzNCwyLDA6MzowOi0xMzc3Ni4yMzg3MTE4NDUyNzU6MTogNDg1OjU6LTExNzo2ODI6MDoxOjA6NTg5ITE5ODk6NTotMTA5OjMxOjA6MTowOjExOTI1ITEzMTg6MTotNjM6NDY4OjA6MTowOjYyNDAhMjE3NzozOi0yMzA6MjUzOjA6MTowOjc3NTkhMjk0Nzo1Oi0xODQ6NzE6MDoxOjA6NjkwMyE5MDc1OjI6LTIwODozOTE6MDoxOjA6MTM2MCEyODM0OjE6LTE0ODoyMzY6MDoxOjA6Mzk3MSE1NzI2OjU6Nzg6NDA1OjA6MTowOjEwMDE2ITE2NjE0OjU6Njo1OTowOjE6MDoxMTQ2OSE0MDkxOjM6LTc5OjQwNzowOjE6MDo5MTAyITQ5MDU6MzotMTEyOjQwOTowOjE6MDoxODY4MCE4MDQyOjE6LTE0MjozNzc6MDoxOjA6NDkwNiExMTAxMDoyOi0xMjM6MzcwOjA6MDowOjAhMTkwMzg6NTotMTU3OjEwNTowOjE6MDowITE2MzY3OjU6LTE6MTgyOjA6MTowOjAhMTQwOTA6NDotMjY1OjU2MTowOjE6MDowITM4ODk6MTotMjkyOjU2OTowOjE6MDowITE3ODM0OjQ6LTY2OjYwODowOjE6MDowISAwLDEsMTMxOzEwMCw2MDgsNzg0Mjk0OTAwOTYzNDYsMSwyLzgvNiAzIDE2OTczOTgwNDEwNjYgMSwwLDEwODs0NSwxNDUsMTU5NjY1MzMzNjAxMjE3LDEsMzQgMTYxIDE2MSAxLDAsMTAwOzMwLDgwLDM5MzgxODcyMzIwMzI4OSwwLCwxLDUwOzMwLDMwLDExMTcyNDYwNjc4NDQyNzksMCwsMSwzMDszMCwzMCwyMDM1MzU3MzEzNjA3MTQ4LDAsLDEsMzA7MjAsMjAsMjU0MjkxMzc0MTc2MDQ3OSwwLCwxLDIwOzUsNSw1MDI4MzkzMjQ0OTU1MjIxLDAsLDEsNTs1LDUsMTYxNTcxMjM1MTMzMTA3ODYsMCwsMSw1OzEsMSw3NzY0OTA2MTY2MTk4OTYsMCwsMSwxOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7fDExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTEwMTExMTAwMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMDAwMDAwMTExMTExMTExMTExMTExMTExMTExMTEwMTExMTExMTExMTExMTAwMDAwMDAwMDExMTExMTExMDAxMTExMDAwMDAwMDAxMTAwMTExMTExMDAxMTAwMDAwMDAwMDAwMDEwMTAwMDAwMDAxMTExMTExMDEwMDAxMTExMTExMTAwMDAwMDAwMDAxMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMTAxMTExMTExMTExMTExMTExMTExMTExMTExMTExMTEwMDExMDAwMDAwMDAwMDAwMTAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMTExMDExMTEwMDExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTExMTExMTAwMTExMTExMTExMTAwMTExMTExMTExMDAwMTExMTExMDAwMDAwMTAxMDEwMTAxMDEwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDB8MTExMTExMTExMTEwMDAwMDExMTExMTExMTEwMDAwMTExMTExMTExMTExMTExMTExMTExMTExMDEwMDEwMDEwMDAwMDExMTAxMTExMTAxMDAwMTAxMDAwMTAwMTAwMDAwMDAwMDExMTAxMTEwMDExMDAwMDEwMTAwMDAwMTAwMDAwMDAwMDEwMDAwMDAwMDAwMDExMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMDAxMTEwMDExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAxMTAxMTAxMTAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMTEwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHx8%21END%21
+ 
+ -->
