@@ -1,0 +1,70 @@
+<html><head>
+    <script id="gamedistribution-jssdk" src="main.min.js"></script><script type="text/javascript">
+      window.config = {
+        debug: false,
+        maxRatio: 16 / 9,
+        minRatio: 9 / 16,
+        numScreenshots: 0,
+        unityWebglBuildUrl: 'highwat_racer_gd_v5.json',
+        unityWebglLoaderUrl: 'UnityLoader.js'
+      };
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Highway Racer 3D</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript" src="api.js"></script>
+    <script type="text/javascript" src="/cloak.js"></script>
+    <meta name="robots" content="noindex,nofollow">
+  <script type="text/javascript" async="" src=""></script><script type="text/javascript" async="" src="https://unblocked66.games/api/null.html?https://www.google-analytics.com/analytics.js" id="gdsdk_google_analytics"></script><script type="text/javascript" async="" src="https://tbg95.github.io/gamedock-sdk.min.js" id="GamedockSDK"></script><script type="text/javascript" async="" crossorigin="anonymous" data-ad-client="ca-pub-2316275586951220" data-ad-frequency-hint="30s" allow="autoplay" data-ad-channel="4089988593" src="https://unblocked66.games/api/null.html?https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" id="afg"></script></head>
+  <body>
+    <div id="loader" style="display: none;">
+      <div id="slideshow">
+        <div id="slideshow-top" class="active">
+          <img alt="Sling Drift" title="Sling Drift" src="thumbnail.jpg" id="thumbnail">
+          <div id="slideshow-top-container">
+            <div id="game-title">
+              <h1>Highway Racer 3D</h1>
+            </div>
+            <div id="progress-container" class="done">
+              <div id="progress-bar">
+                <div id="progress-fill" style="width: 100%;"></div>
+              </div>
+              <div id="progress-amount">100%</div>
+            </div>
+          </div>
+        </div>
+        <div id="slideshow-images"><div class="image middle" fullimageloaded="true" data-idx="0"><img src="screenshots/1.jpg"></div></div>
+        <div id="slideshow-nav"></div>
+      </div>
+    </div>
+    <div id="game-container" style="display: block; width: 559px; height: 467px; margin-left: -279.5px; margin-top: -233.5px;">
+      <div id="game" style="padding: 0px; margin: 0px; border: 0px; position: relative; background: rgb(35, 31, 32);"><canvas id="#canvas" width="559" height="467" style="cursor: default;"></canvas></div>
+    </div>
+    <script type="text/javascript" src="loader.js"></script><div id="spinner" class="spinner"><div class="bounce0"></div><div class="bounce1"></div><div class="bounce2"></div></div>
+  
+<style>
+		#slideshow-images {
+			height: 40.21927194860813vh;
+		}
+		#slideshow-images .image {
+			transition-duration: 0.5s;
+			width: 60vw;
+			height: 40.21927194860813vh;
+		}
+		#slideshow-images .middle {
+			transform: translateX(20vw);
+		}
+		#slideshow-images .left {
+			transform: translateX(-34vw) scale(0.8);
+		}
+		#slideshow-images .right {
+			transform: translateX(74vw) scale(0.8);
+		}
+		#slideshow-images .inactive.fromLeft {
+			transform: translateX(-60vw) scale(0.4);
+		}
+		#slideshow-images .inactive.fromRight {
+			transform: translateX(130vw) scale(0.4);
+		}
+	</style><script src="UnityLoader.js"></script><script src="blob:https://ubg77.github.io/afdc92b5-a0e7-4f37-a41f-7a2327b02461"></script></body></html>
