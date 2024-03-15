@@ -1,75 +1,63 @@
 <html><head><style>body {transition: opacity ease-in 0.2s; } 
 body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
 </style>
-    <script id="gamedistribution-jssdk" src="main.min.js"></script><script type="text/javascript">
-      window.config = {
-        debug: false,
-        maxRatio: 16 / 9,
-        minRatio: 9 / 16,
-        numScreenshots: 0,
-        unityWebglBuildUrl: 'highwat_racer_gd_v5.json',
-        unityWebglLoaderUrl: 'UnityLoader.js'
-      };
-    </script>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Highway Racer 3D</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <script type="text/javascript" src="api.js"></script>
-    <script type="text/javascript" src="/cloak.js"></script>
-    <meta name="robots" content="noindex,nofollow">
-  <script type="text/javascript" async="" src=""></script><script type="text/javascript" async="" src="https://unblocked66.games/api/null.html?https://www.google-analytics.com/analytics.js" id="gdsdk_google_analytics"></script><script type="text/javascript" async="" src="https://tbg95.github.io/gamedock-sdk.min.js" id="GamedockSDK"></script><script type="text/javascript" async="" crossorigin="anonymous" data-ad-client="ca-pub-2316275586951220" data-ad-frequency-hint="30s" allow="autoplay" data-ad-channel="4089988593" src="https://unblocked66.games/api/null.html?https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" id="afg"></script></head>
-  <body>
-    <div id="loader" style="display: none;">
-      <div id="slideshow">
-        <div id="slideshow-top" class="active">
-          <img alt="Sling Drift" title="Sling Drift" src="thumbnail.jpg" id="thumbnail">
-          <div id="slideshow-top-container">
-            <div id="game-title">
-              <h1>Highway Racer 3D</h1>
-            </div>
-            <div id="progress-container" class="done">
-              <div id="progress-bar">
-                <div id="progress-fill" style="width: 100%;"></div>
-              </div>
-              <div id="progress-amount">100%</div>
-            </div>
-          </div>
-        </div>
-        <div id="slideshow-images"><div class="image middle" fullimageloaded="true" data-idx="0"><img src="screenshots/1.jpg"></div></div>
-        <div id="slideshow-nav"></div>
-      </div>
-    </div>
-    <div id="game-container" style="display: block; height: 607px; width: 616px; margin-left: -308px; margin-top: -303.5px;">
-      <div id="game" style="padding: 0px; margin: 0px; border: 0px; position: relative; background: rgb(35, 31, 32);"><canvas id="#canvas" width="616" height="607" style="cursor: default;"></canvas></div>
-    </div>
-    <script type="text/javascript" src="loader.js"></script><div id="spinner" class="spinner"><div class="bounce0"></div><div class="bounce1"></div><div class="bounce2"></div></div>
+  <title>Highway Racer 2 - Unblocked Games FreezeNova</title>
+ 
+ <link rel="canonical" href="https://unblocked-games.s3.amazonaws.com/highway-racer-2.html">
   
-<style>
-		#slideshow-images {
-			height: 34.098187808896206vh;
+  <style>
+html, body{
+    margin: 0;
+
+    padding: 0;
+
+    min-width: 100%;
+    width: 100%;
+    max-width: 100%;
+
+    min-height: 100%;
+    height: 100%;
+    max-height: 100%;
+}
+</style>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://unblocked-games.s3.amazonaws.com/games/unblocked.js"></script>
+
+<script>
+ 
+
+	window.gameName = "2022/unity2/highway-racer-2";
+	console.log("gameName: " + window.gameName);
+	
+
+	
+   
+     
+</script>
+
+</head>
+
+<body onload="OnLoadX()">
+
+	<iframe id="gameFrame" src="https://unblocked-games.s3.amazonaws.com/games/2022/unity2/highway-racer-2/unblocked.html" width="100%" height="100%" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" webkitallowfullscreen="true" mozallowfullscreen="true" msallowfullscreen="true" allowfullscreen="true"></iframe>
+
+	<script>
+		
+		OnLoadX = function (){
+		
+			unblockedOnLoadY(document, "https://www.julgames.com/games/" + window.gameName + "/", "https://unblocked-games.s3.amazonaws.com/games/" + window.gameName + "/unblocked.html");
+		
 		}
-		#slideshow-images .image {
-			transition-duration: 0.5s;
-			width: 60vw;
-			height: 34.098187808896206vh;
-		}
-		#slideshow-images .middle {
-			transform: translateX(20vw);
-		}
-		#slideshow-images .left {
-			transform: translateX(-34vw) scale(0.8);
-		}
-		#slideshow-images .right {
-			transform: translateX(74vw) scale(0.8);
-		}
-		#slideshow-images .inactive.fromLeft {
-			transform: translateX(-60vw) scale(0.4);
-		}
-		#slideshow-images .inactive.fromRight {
-			transform: translateX(130vw) scale(0.4);
-		}
-	</style><template id="auto-clicker-autofill-popup">
+	
+	
+	</script>
+
+
+
+
+<template id="auto-clicker-autofill-popup">
   <style>
     @import url(https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css);
     @import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500&subset=latin-ext);
@@ -307,4 +295,4 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
     </td>
   </tr>
 </template>
-<script src="UnityLoader.js"></script><script src="blob:https://ubg77.github.io/4c223f54-fd53-4886-9f3f-bdaa36638d7d"></script></body></html>
+</body></html>
